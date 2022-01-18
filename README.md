@@ -2,8 +2,10 @@
 
 ## Smartphone Apps
 
-- [東方BGM on VGS version 4 for iOS](https://github.com/suzukiplan/tohovgs4-ios)
-- [東方BGM on VGS version 4 for Android](https://github.com/suzukiplan/tohovgs4-android)
+|東方BGM on VGS (iOS)|東方BGM on VGS (Android)|
+|:-:|:-:|
+|![QR(iOS)](tohovgs-ios.png)|![QR(Android)](tohovgs-android.png)|
+|[https://apps.apple.com/jp/app/id680248037](https://apps.apple.com/jp/app/id680248037)|[https://play.google.com/store/apps/details?id=com.suzukiplan.TOHOVGS](https://play.google.com/store/apps/details?id=com.suzukiplan.TOHOVGS)|
 
 ## VGS core libraries
 
