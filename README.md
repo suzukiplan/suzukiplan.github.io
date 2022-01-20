@@ -1,5 +1,7 @@
 # Welcome to SUZUKI PLAN
 
+SUZUKI PLAN is a common name for Yoji Suzuki (individual) to carry out doujin activities, and is not a corporation.
+
 ## Apps
 
 |東方BGM on VGS (iOS)|東方BGM on VGS (Android)|
@@ -7,9 +9,9 @@
 |![QR(iOS)](tohovgs-ios.png)|![QR(Android)](tohovgs-android.png)|
 |[https://apps.apple.com/jp/app/id680248037](https://apps.apple.com/jp/app/id680248037)|[https://play.google.com/store/apps/details?id=com.suzukiplan.TOHOVGS](https://play.google.com/store/apps/details?id=com.suzukiplan.TOHOVGS)|
 
-## Site Map
+## Major Repositories
 
-### VGS Active Repositories
+### VGS
 
 - [VGS BGM Decoder](https://github.com/suzukiplan/vgs-bgm-decoder)
 - [VGS MML Compiler](https://github.com/suzukiplan/vgs-mml-compiler)
