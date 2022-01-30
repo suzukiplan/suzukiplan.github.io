@@ -29,4 +29,5 @@ SUZUKI PLAN is a common name for Yoji Suzuki (individual) to carry out doujin ac
 
 - [GitHub: 6502マシン語ゲームプログラミング](https://github.com/suzukiplan/mgp-fc)
 - [Qiita: MSXのアプリ開発環境を構築する方法（macOS向け）](https://qiita.com/suzukiplan/items/b369d3f9b41be55b247e)
+- [Qiita: 要件定義入門（原題: Firebase Hosting + GitHub で音楽配信システムを作ってみた）](https://qiita.com/suzukiplan/items/8ba8f135da8a7749fb0a)
 
